@@ -1,0 +1,14 @@
+DIRECTORY:   root
+DIRECTORY:root/dir1
+DIRECTORY:root/dir1/dir4
+FILE:root/dir1/dir4/Hello.c
+FILE:root/dir1/dir4/sample.txt
+DIRECTORY:root/dir1/dir3
+FILE:root/dir1/dir3/Hello.c
+FILE:root/dir1/dir3/sample.txt
+FILE:root/dir1/Hello.c
+FILE:root/dir1/sample.txt
+DIRECTORY:root/dir2
+DIRECTORY:root/dir3
+FILE:root/Hello.cpp
+FILE:root/sample.py
